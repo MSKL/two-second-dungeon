@@ -1,2 +1,0 @@
-﻿*udělat z walllistu dictionary -> mnohem rychlejší checkování
-*shadows -> castování stínů přes zdi
